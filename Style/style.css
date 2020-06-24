@@ -1,0 +1,15 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+
+.fit{
+    background: url(../Images/share-section1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    
+}
